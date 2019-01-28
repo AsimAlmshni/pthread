@@ -1,0 +1,20 @@
+the speed up is : 
+	with 10 threads
+	serial time / parallel time
+	.027 / .037
+
+when ive run ten threads i got this
+when run 20 thread i got this
+	the run time changed to .024
+	speed up is .027 / .024
+when rum 30 thread i got this 
+	the run time is .026
+	speed up is .027 / .026
+when run 50 thread i got 
+	the run time is .027
+	speed up is   .027 / .027
+
+okay the perfomance has channged sometimes it's got be better than other 
+i think it migth be the evalutating of loops that's it's determind by me 
+i think it may be better with another syncroniztion tool 
+
